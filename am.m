@@ -1,0 +1,10 @@
+A = [2 1; 0 2]
+a = [3 -2; 0 4]
+R = A*a
+S = A-a
+c = -1
+w = a*c
+aa = det(a)
+I = inv(a)
+comp = a*I
+x = 1:5
